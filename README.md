@@ -1,6 +1,6 @@
 # CS50
 
-I AM MUHAMMAD
+I AM MUHAMMAD ALIAS MX
 
 This is Respository for my CS50X Problem Sets Uploads
 
